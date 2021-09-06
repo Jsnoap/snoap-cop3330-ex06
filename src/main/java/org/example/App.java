@@ -7,10 +7,6 @@ package org.example;
 import java.util.Date;
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     // Program to return what year and how many years until you can retire based off of user input.
